@@ -51,15 +51,5 @@ Your webcam will open, and the gesture control system will start running
 - Make a fist and hold for 3 seconds to close the active application
 - Press ‘Q’ key to exit the program
 
----
-
-## Instructions for Testing
-- Run the program and test each gesture individually:
-- Move the cursor using your index finger and check smoothness
-- Perform click, double click, and drag operations
-- Test scrolling functionality in a browser or document
-- Verify right click opens context menus
-- Test fist gesture to close an application
-
 Try different lighting conditions and hand positions to evaluate detection accuracy. Also test rapid and slow gestures to ensure correct interpretation.
 
